@@ -93,3 +93,4 @@ However, there are a few things to watch out for in this data set. Customers do 
     |joblib         | 0.13.2    |
     |Pandas         | 0.22.0    |
     |sklearn        | 0.19.1    |
+    |Bootstrap      | 3.x       |
